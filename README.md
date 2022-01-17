@@ -1,5 +1,6 @@
 # deleted
 Tüm linklerim aşağıda bulunmaktadır!
+
 <table class="center">
 <tr> 
           ⬇️⬇️⬇️ Tüm Linkler ⬇️⬇️⬇️
@@ -11,9 +12,11 @@ Tüm linklerim aşağıda bulunmaktadır!
 
 <td><a href="https://github.com/KOLEJ408">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a> </tr>
+  </a> 
+          </tr>
+          </table>
           
 
           
-          
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=KOLEJ408.KOLEJ408)](#)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=deletedTR.deletedTR)](#)          
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=deletedTR">
