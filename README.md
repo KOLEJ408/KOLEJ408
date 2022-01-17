@@ -13,4 +13,7 @@ Tüm linklerim aşağıda bulunmaktadır!
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a> </tr>
           
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=KOLEJ408.KOLEJ408)](#)
+
+          
+          
+          [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=KOLEJ408.KOLEJ408)](#)
