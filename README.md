@@ -16,4 +16,4 @@ Tüm linklerim aşağıda bulunmaktadır!
 
           
           
-          [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=KOLEJ408.KOLEJ408)](#)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=KOLEJ408.KOLEJ408)](#)
