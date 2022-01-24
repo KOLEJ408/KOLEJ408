@@ -16,6 +16,8 @@ Tüm linklerim aşağıda bulunmaktadır!
           </tr>
           </table>
           
+[![Discord Presence](https://lanyard.cnrad.dev/api/911227717901504512)](https://discord.com/users/911227717901504512)
+          
 
           
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=deletedTR.deletedTR)](#)          
